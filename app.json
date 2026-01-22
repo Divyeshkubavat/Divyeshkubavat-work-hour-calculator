@@ -1,12 +1,7 @@
 {
   "expo": {
-<<<<<<< HEAD
     "name": "WorkJoy",
     "slug": "workjoy",
-=======
-    "name": "Cal_App",
-    "slug": "Cal_App",
->>>>>>> 83f50da74bcee0cdcac44e0ef5c6424a17843dee
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -25,7 +20,6 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-<<<<<<< HEAD
       "edgeToEdgeEnabled": true,
       "package": "com.divzy_dev.workjoy"
     },
@@ -39,12 +33,6 @@
       "eas": {
         "projectId": "1e825a37-2636-47d1-8dda-63b27a927250"
       }
-=======
-      "edgeToEdgeEnabled": true
-    },
-    "web": {
-      "favicon": "./assets/favicon.png"
->>>>>>> 83f50da74bcee0cdcac44e0ef5c6424a17843dee
     }
   }
 }
