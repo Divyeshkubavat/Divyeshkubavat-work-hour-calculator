@@ -101,7 +101,7 @@ npm start
 yarn start
 ```
 
-## ▶️ Running the Application
+### ▶️ Running the Application
 
 Expo Developer Tools will open automatically.  
 You can run the app on:
@@ -110,7 +110,7 @@ You can run the app on:
 * 📱 **iOS Simulator**
 * 📱 **Expo Go app** (scan QR code on your mobile)
 
-## 📊 Usage Flow
+### 📊 Usage Flow
 
 1. **Open the app** and select the date
 2. **Punch In** and **Out** time
