@@ -70,8 +70,6 @@ This project is ideal for **employees, freelancers, students, and shift-based wo
 
 ## 📁 Project Structure
 
-## 📁 Project Structure
-
 ```text
 Divyeshkubavat-work-hour-calculator/
 ├── assets/      # App images & icons
@@ -84,8 +82,7 @@ Divyeshkubavat-work-hour-calculator/
 ├── app.json        # Expo configuration
 ├── package.json    # Dependencies
 └── README.md
-
-
+```
 ---
 
 ## 📦 Installation & Setup
